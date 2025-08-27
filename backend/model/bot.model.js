@@ -12,3 +12,4 @@ const botschema = new mongoose.Schema({
 
 const Bot = mongoose.model("bot", botSchema);
 export default Bot;
+
